@@ -22,15 +22,19 @@
 > 💡 *"Crafting powerful digital experiences, one line of code at a time."*
 <br />
 
-<img height="180em"
-       src="https://github-readme-streak-stats-eight.vercel.app/?user=SaubhagyaSapkota&hide_border=true&theme=radical&locale=en"
-       alt="Saubhagya Sapkota" /> 
-   <br /><br />
+<div align="center">
 
-   <div alight="center">
-      <img width="auto" height="180em" src="https://github-readme-stats.vercel.app/api?username=SaubhagyaSapkota&show_icons=true&hide_border=true&width=600&theme=radical&locale=en" alt="Saubhagya Sapkota" /> 
-      <img width="auto" height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs?username=SaubhagyaSapkota&show_icons=true&hide_border=true&width=600&theme=radical&locale=en&layout=compact" alt="Saubhagya Sapkota" />
-   </div>
+  <!-- Contribution Streak -->
+   <img height="180em"
+       src="https://github-readme-streak-stats-eight.vercel.app/?user=SaubhagyaSapkota&hide_border=true&theme=radical&locale=en"
+       alt="Saubhagya Sapkota" />
+
+  <br />
+
+  <!-- GitHub Stats + Top Languages Side by Side -->
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=SaubhagyaSapkota&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaubhagyaSapkota&layout=compact&hide_border=true&theme=radical" alt="Top Languages"/>
 
 </div>
 
