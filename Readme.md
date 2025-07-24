@@ -22,8 +22,9 @@
 > 💡 *"Crafting powerful digital experiences, one line of code at a time."*
 <br />
 
-<div align="center">
-   <img width="auto" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SaubhagyaSapkota&hide_border=true&width=800&theme=radical&locale=en" alt="Saubhagya Sapkota" /> 
+<img height="180em"
+       src="https://github-readme-streak-stats-eight.vercel.app/?user=SaubhagyaSapkota&hide_border=true&theme=radical&locale=en"
+       alt="Saubhagya Sapkota" /> 
    <br /><br />
 
    <div alight="center">
