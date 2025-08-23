@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saubhagya Sapkota</h1>
-<h3 align="center">Full Stack Developer | Cyber Security Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Full Stack Developer | Cyber Security Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=440&lines=React+%2F+Node.js+Developer;Building+Modern+Web+Apps;Learning+Cyber+Security" alt="Typing SVG" />
